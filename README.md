@@ -1,5 +1,4 @@
-[![Build Status](https://dev.azure.com/markcunningham/AZ-400/_apis/build/status/markcunninghamuk.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/markcunningham/AZ-400/_build/latest?definitionId=18&branchName=master)
-
+https://dev.azure.com/markcunningham/AZ-400/_apis/build/status/markcunninghamuk.mslearn-tailspin-spacegame-web?branchName=master
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
